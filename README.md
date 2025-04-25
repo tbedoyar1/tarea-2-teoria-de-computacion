@@ -46,3 +46,6 @@
 - [ChatGPT](https://chatgpt.com/)
 - [DeepSeek](https://www.deepseek.com/)
 - [BlackBoxIA](https://www.blackbox.ai/)
+
+LINK VIDEO
+https://github.com/tbedoyar1/tarea-2-teoria-de-computacion.git
